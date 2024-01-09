@@ -9,15 +9,15 @@ Muallif: Anvar Narzullaev
 
 Web sahifa: https://python.sariq.dev
 """
-car_0 = {"model": "ferrari", "rang": "qizil"}
-print(car_0["model"])
-print(car_0["rang"])
+# car_0 = {"model": "ferrari", "rang": "qizil"}
+# print(car_0["model"])
+# print(car_0["rang"])
 
-# # Lug'atda istalgan ma'lumot turlarini saqlash mumkin
-# talaba_0 = {'ism':'murod olimov','yosh':20,'t_yil':2000}
-# print(f"{talaba_0['ism'].title()},\
-#  {talaba_0['t_yil']}-yilda tu'gilgan,\
-#  {talaba_0['yosh']} yoshda")
+# Lug'atda istalgan ma'lumot turlarini saqlash mumkin
+talaba_0 = {'ism':'murod olimov','yosh':20,'t_yil':2000}
+print(f"{talaba_0['ism'].title()},\
+  {talaba_0['t_yil']}-yilda tu'gilgan,\
+  {talaba_0['yosh']} yoshda")
 
 # # Yangi kalit so'z va qiymat qo'shish
 # talaba_0['kurs'] = 4
